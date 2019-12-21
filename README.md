@@ -1,7 +1,7 @@
 # Locating-Java-Path-in-Ubuntu-
 we are going to see how to access java path from ubuntu
 
-1 - Open yout terninal with Ctrl+Alt+T
+1 - Open your terninal with Ctrl+Alt+T
 
 2- Log in as root by typing: sudo su , and enter your password.
 
