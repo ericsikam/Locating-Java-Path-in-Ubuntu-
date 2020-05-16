@@ -1,5 +1,13 @@
 # Locating-Java-Path-in-Ubuntu-
-we are going to see how to access java path from ubuntu
+we are going to see how to access java path from ubuntu.
+IF you get an error on your terminal because your system cannot locate your java path, then follow the steps bellow.
+
+0- Try this link first:
+copy and paste into your linux terminal
+
+readlink -f /usr/bin/java | sed "s:bin/java::"
+
+if doesn't work for you then, try the steps bellow.
 
 1 - Open your terninal with Ctrl+Alt+T
 
